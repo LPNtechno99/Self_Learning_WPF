@@ -1,0 +1,14 @@
+D:\MyProject\WPF\Start\Start\bin\Debug\Start.exe.config
+D:\MyProject\WPF\Start\Start\bin\Debug\Start.exe
+D:\MyProject\WPF\Start\Start\bin\Debug\Start.pdb
+D:\MyProject\WPF\Start\Start\obj\Debug\MainWindow.g.cs
+D:\MyProject\WPF\Start\Start\obj\Debug\App.g.cs
+D:\MyProject\WPF\Start\Start\obj\Debug\Start_MarkupCompile.cache
+D:\MyProject\WPF\Start\Start\obj\Debug\Start_MarkupCompile.lref
+D:\MyProject\WPF\Start\Start\obj\Debug\MainWindow.baml
+D:\MyProject\WPF\Start\Start\obj\Debug\Start.g.resources
+D:\MyProject\WPF\Start\Start\obj\Debug\Start.Properties.Resources.resources
+D:\MyProject\WPF\Start\Start\obj\Debug\Start.csproj.GenerateResource.Cache
+D:\MyProject\WPF\Start\Start\obj\Debug\Start.exe
+D:\MyProject\WPF\Start\Start\obj\Debug\Start.pdb
+D:\MyProject\WPF\Start\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
