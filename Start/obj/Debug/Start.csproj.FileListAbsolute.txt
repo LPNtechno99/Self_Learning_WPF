@@ -12,3 +12,17 @@ D:\MyProject\WPF\Start\Start\obj\Debug\Start.csproj.GenerateResource.Cache
 D:\MyProject\WPF\Start\Start\obj\Debug\Start.exe
 D:\MyProject\WPF\Start\Start\obj\Debug\Start.pdb
 D:\MyProject\WPF\Start\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\Start\bin\Debug\Start.exe.config
+D:\RAV\Github\Self_Learning_WPF\Start\bin\Debug\Start.exe
+D:\RAV\Github\Self_Learning_WPF\Start\bin\Debug\Start.pdb
+D:\RAV\Github\Self_Learning_WPF\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\Start\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\Start\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\Start\obj\Debug\Start_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\Start\obj\Debug\Start_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\Start\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\Start\obj\Debug\Start.g.resources
+D:\RAV\Github\Self_Learning_WPF\Start\obj\Debug\Start.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\Start\obj\Debug\Start.csproj.GenerateResource.Cache
+D:\RAV\Github\Self_Learning_WPF\Start\obj\Debug\Start.exe
+D:\RAV\Github\Self_Learning_WPF\Start\obj\Debug\Start.pdb

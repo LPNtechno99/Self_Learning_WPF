@@ -20,6 +20,7 @@ namespace Start
     /// </summary>
     public partial class MainWindow : Window
     {
+        private int DEMO = 0;
         public MainWindow()
         {
             InitializeComponent();
