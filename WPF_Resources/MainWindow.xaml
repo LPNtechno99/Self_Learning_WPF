@@ -1,4 +1,4 @@
-﻿<Window x:Class="WPF_Resources.MainWindow.ExtendedResourceSample"
+﻿<Window x:Class="WPF_Resources.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:sys="clr-namespace:System;assembly=mscorlib"
@@ -6,7 +6,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Resources"
         mc:Ignorable="d"
-        Title="ExtendedResourceSample" Height="160" Width="300">
+        Title="MainWindow" Height="160" Width="300">
     <Window.Resources>
         <sys:String x:Key="ComboboxTitle">Items</sys:String>
         <x:Array x:Key="ComboboxItems" Type="sys:String">
@@ -16,7 +16,11 @@
         </x:Array>
         <LinearGradientBrush x:Key="WindowBackgroundBrush">
             <GradientStop Offset="0" Color="Silver"/>
-            <GradientStop Offset="1" Color="Gray"/>
+            <GradientStop Offset="1" Color="Red"/>
         </LinearGradientBrush>
     </Window.Resources>
+    <StackPanel Margin="10">
+        <Label Content="{StaticResource ComboboxTitle}"/>
+        <ComboBox ItemsSource="{StaticResource ComboboxItems}"/>
+    </StackPanel>
 </Window>
