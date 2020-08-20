@@ -1,0 +1,13 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\bin\Debug\WPF_Handling_Exception.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\bin\Debug\WPF_Handling_Exception.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\bin\Debug\WPF_Handling_Exception.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\obj\Debug\HandlingException.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\obj\Debug\WPF_Handling_Exception_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\obj\Debug\WPF_Handling_Exception_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\obj\Debug\HandlingException.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\obj\Debug\WPF_Handling_Exception.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\obj\Debug\WPF_Handling_Exception.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\obj\Debug\WPF_Handling_Exception.csproj.GenerateResource.Cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\obj\Debug\WPF_Handling_Exception.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Handling_Exception\obj\Debug\WPF_Handling_Exception.pdb

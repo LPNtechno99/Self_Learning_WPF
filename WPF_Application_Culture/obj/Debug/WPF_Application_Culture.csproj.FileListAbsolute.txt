@@ -1,0 +1,14 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\obj\Debug\WPF_Application_Culture.csprojResolveAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\obj\Debug\ApplicationCultureSwitchSample.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\obj\Debug\WPF_Application_Culture_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\obj\Debug\WPF_Application_Culture_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\bin\Debug\WPF_Application_Culture.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\bin\Debug\WPF_Application_Culture.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\bin\Debug\WPF_Application_Culture.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\obj\Debug\ApplicationCultureSwitchSample.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\obj\Debug\WPF_Application_Culture.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\obj\Debug\WPF_Application_Culture.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\obj\Debug\WPF_Application_Culture.csproj.GenerateResource.Cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\obj\Debug\WPF_Application_Culture.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Application_Culture\obj\Debug\WPF_Application_Culture.pdb

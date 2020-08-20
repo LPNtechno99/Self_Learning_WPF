@@ -1,0 +1,14 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\bin\Debug\WPF_TextBlock_Control-Inline_Formatting.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\bin\Debug\WPF_TextBlock_Control-Inline_Formatting.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\bin\Debug\WPF_TextBlock_Control-Inline_Formatting.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\obj\Debug\WPF_TextBlock_Control-Inline_Formatting.csprojResolveAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\obj\Debug\TextBlockSample2.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\obj\Debug\WPF_TextBlock_Control-Inline_Formatting_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\obj\Debug\WPF_TextBlock_Control-Inline_Formatting_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\obj\Debug\TextBlockSample2.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\obj\Debug\WPF_TextBlock_Control-Inline_Formatting.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\obj\Debug\WPF_TextBlock_Control_Inline_Formatting.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\obj\Debug\WPF_TextBlock_Control-Inline_Formatting.csproj.GenerateResource.Cache
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\obj\Debug\WPF_TextBlock_Control-Inline_Formatting.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_TextBlock_Control-Inline_Formatting\obj\Debug\WPF_TextBlock_Control-Inline_Formatting.pdb
