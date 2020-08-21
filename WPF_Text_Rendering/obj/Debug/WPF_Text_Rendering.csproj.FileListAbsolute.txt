@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\bin\Debug\WPF_Text_Rendering.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\bin\Debug\WPF_Text_Rendering.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\bin\Debug\WPF_Text_Rendering.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\obj\Debug\WPF_Text_Rendering.csprojAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\obj\Debug\WPF_Text_Rendering_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\obj\Debug\WPF_Text_Rendering_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\obj\Debug\WPF_Text_Rendering.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\obj\Debug\WPF_Text_Rendering.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\obj\Debug\WPF_Text_Rendering.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\obj\Debug\WPF_Text_Rendering.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\obj\Debug\WPF_Text_Rendering.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Text_Rendering\obj\Debug\WPF_Text_Rendering.pdb

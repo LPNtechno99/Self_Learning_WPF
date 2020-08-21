@@ -1,0 +1,14 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\bin\Debug\WPF_CheckBox_Control.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\bin\Debug\WPF_CheckBox_Control.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\bin\Debug\WPF_CheckBox_Control.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\obj\Debug\WPF_CheckBox_Control_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\obj\Debug\WPF_CheckBox_Control_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\obj\Debug\WPF_CheckBox_Control.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\obj\Debug\WPF_CheckBox_Control.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\obj\Debug\WPF_CheckBox_Control.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\obj\Debug\WPF_CheckBox_Control.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\obj\Debug\WPF_CheckBox_Control.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_CheckBox_Control\obj\Debug\WPF_CheckBox_Control.pdb

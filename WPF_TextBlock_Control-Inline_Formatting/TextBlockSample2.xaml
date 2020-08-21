@@ -28,8 +28,5 @@
                 </Span>.
             </TextBlock>
         </StackPanel>
-        <StackPanel Margin="0,136,0,0" Name="stPanel">
-            
-        </StackPanel>
     </Grid>
 </Window>

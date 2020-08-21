@@ -1,0 +1,30 @@
+﻿<Window x:Class="WPF_Button_Control.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Button_Control"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Padding" Value="10,2"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Button Background="Beige" Foreground="Blue" FontWeight="Bold" Margin="73,66,75,75" >Formatted Button</Button>
+        <Button Height="30" Width="80" Margin="103,100,109,39">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="D://RAV//help.png" />
+                <TextBlock Margin="5,0" TextAlignment="Center" Height="17">Help</TextBlock>
+            </StackPanel>
+        </Button>
+        <Button Height="30" Width="170" Margin="44,31,48,108">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock>Formatted</TextBlock>
+                <TextBlock Foreground="Blue" FontWeight="Bold" Margin="2,0">Button</TextBlock>
+                <TextBlock Foreground="Gray" FontStyle="Italic">[Various]</TextBlock>
+            </StackPanel>
+        </Button>
+    </Grid>
+</Window>

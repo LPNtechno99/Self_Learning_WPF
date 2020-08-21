@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\bin\Debug\WPF_Button_Control.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\bin\Debug\WPF_Button_Control.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\bin\Debug\WPF_Button_Control.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\obj\Debug\WPF_Button_Control.csprojAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\obj\Debug\WPF_Button_Control_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\obj\Debug\WPF_Button_Control_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\obj\Debug\WPF_Button_Control.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\obj\Debug\WPF_Button_Control.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\obj\Debug\WPF_Button_Control.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\obj\Debug\WPF_Button_Control.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\obj\Debug\WPF_Button_Control.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Button_Control\obj\Debug\WPF_Button_Control.pdb

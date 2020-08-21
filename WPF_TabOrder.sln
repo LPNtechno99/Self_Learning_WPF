@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_TabOrder", "WPF_TabOrder\WPF_TabOrder.csproj", "{ACCCEF7E-86C4-45A9-8EF2-3EB64229BDF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACCCEF7E-86C4-45A9-8EF2-3EB64229BDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCCEF7E-86C4-45A9-8EF2-3EB64229BDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCCEF7E-86C4-45A9-8EF2-3EB64229BDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCCEF7E-86C4-45A9-8EF2-3EB64229BDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47309967-11D5-411A-8FD9-6AA9925EB0CB}
+	EndGlobalSection
+EndGlobal

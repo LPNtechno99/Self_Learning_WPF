@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Label_Control", "WPF_Label_Control\WPF_Label_Control.csproj", "{DAFFA641-AD2D-4210-8A71-D50EF9DE623B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFFA641-AD2D-4210-8A71-D50EF9DE623B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFFA641-AD2D-4210-8A71-D50EF9DE623B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFFA641-AD2D-4210-8A71-D50EF9DE623B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFFA641-AD2D-4210-8A71-D50EF9DE623B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52527967-93F7-4243-BCAE-DED424DECC5B}
+	EndGlobalSection
+EndGlobal

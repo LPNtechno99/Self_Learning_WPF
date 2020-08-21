@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\bin\Debug\WPF_ToolTips.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\bin\Debug\WPF_ToolTips.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\bin\Debug\WPF_ToolTips.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\obj\Debug\WPF_ToolTips.csprojAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\obj\Debug\WPF_ToolTips_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\obj\Debug\WPF_ToolTips_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\obj\Debug\WPF_ToolTips.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\obj\Debug\WPF_ToolTips.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\obj\Debug\WPF_ToolTips.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\obj\Debug\WPF_ToolTips.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\obj\Debug\WPF_ToolTips.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_ToolTips\obj\Debug\WPF_ToolTips.pdb

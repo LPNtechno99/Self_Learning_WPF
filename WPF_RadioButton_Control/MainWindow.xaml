@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPF_RadioButton_Control.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_RadioButton_Control"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="220" Width="250" WindowStartupLocation="CenterScreen">
+    <StackPanel Margin="10">
+        <Label FontWeight="Bold">Are you ready?</Label>
+        <RadioButton GroupName="ready">Yes</RadioButton>
+        <RadioButton GroupName="ready">No</RadioButton>
+        <RadioButton GroupName="ready" IsChecked="True" Margin="0,5">
+            <WrapPanel>
+                <Image Source="D://RAV//help.png" Width="16" Height="16"/>
+                <TextBlock Text="Maybe" Foreground="Red"/>
+            </WrapPanel>
+        </RadioButton>
+        
+        <Label FontWeight="Bold">Male or Female?</Label>
+        <RadioButton GroupName="sex">Male</RadioButton>
+        <RadioButton GroupName="sex">Female</RadioButton>
+        <RadioButton GroupName="sex" IsChecked="True">Not sure</RadioButton>
+    </StackPanel>
+</Window>
