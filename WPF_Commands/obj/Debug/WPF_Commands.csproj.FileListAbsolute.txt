@@ -1,0 +1,14 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\bin\Debug\WPF_Commands.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\bin\Debug\WPF_Commands.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\bin\Debug\WPF_Commands.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\obj\Debug\WPF_Commands_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\obj\Debug\WPF_Commands_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\obj\Debug\WPF_Commands.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\obj\Debug\WPF_Commands.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\obj\Debug\WPF_Commands.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\obj\Debug\WPF_Commands.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\obj\Debug\WPF_Commands.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\obj\Debug\WPF_Commands.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\obj\Debug\Commands.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\obj\Debug\Commands.baml

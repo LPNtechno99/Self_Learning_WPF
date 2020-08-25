@@ -1,0 +1,16 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\bin\Debug\Command_2.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\bin\Debug\Command_2.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\bin\Debug\Command_2.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\Command_2.csprojAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\Command_2_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\Command_2_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\Command_2.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\Command_2.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\Command_2.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\Command_2.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\Command_2.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\Command_2.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Commands\Command_2\obj\Debug\Command_2.g.cs

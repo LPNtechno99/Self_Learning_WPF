@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\bin\Debug\WPF_Hello_Bound_World.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\bin\Debug\WPF_Hello_Bound_World.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\bin\Debug\WPF_Hello_Bound_World.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\obj\Debug\Hello_Bound_World.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\obj\Debug\WPF_Hello_Bound_World_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\obj\Debug\WPF_Hello_Bound_World_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\obj\Debug\Hello_Bound_World.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\obj\Debug\WPF_Hello_Bound_World.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\obj\Debug\WPF_Hello_Bound_World.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\obj\Debug\WPF_Hello_Bound_World.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\obj\Debug\WPF_Hello_Bound_World.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\obj\Debug\WPF_Hello_Bound_World.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\obj\Debug\WPF_Hello_Bound_World.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Hello_Bound_World\obj\Debug\WPF_Hello_Bound_World.csprojAssemblyReference.cache

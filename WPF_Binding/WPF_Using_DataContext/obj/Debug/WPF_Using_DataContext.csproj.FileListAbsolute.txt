@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\bin\Debug\WPF_Using_DataContext.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\bin\Debug\WPF_Using_DataContext.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\bin\Debug\WPF_Using_DataContext.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\obj\Debug\Using_DataContext.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\obj\Debug\WPF_Using_DataContext_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\obj\Debug\WPF_Using_DataContext_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\obj\Debug\Using_DataContext.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\obj\Debug\WPF_Using_DataContext.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\obj\Debug\WPF_Using_DataContext.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\obj\Debug\WPF_Using_DataContext.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\obj\Debug\WPF_Using_DataContext.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\obj\Debug\WPF_Using_DataContext.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\obj\Debug\WPF_Using_DataContext.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Using_DataContext\obj\Debug\WPF_Using_DataContext.csprojAssemblyReference.cache

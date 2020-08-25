@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\bin\Debug\WPF_Canvas.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\bin\Debug\WPF_Canvas.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\bin\Debug\WPF_Canvas.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\obj\Debug\WPF_Canvas.csprojAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\obj\Debug\WPF_Canvas_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\obj\Debug\WPF_Canvas_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\obj\Debug\WPF_Canvas.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\obj\Debug\WPF_Canvas.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\obj\Debug\WPF_Canvas.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\obj\Debug\WPF_Canvas.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\obj\Debug\WPF_Canvas.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Canvas\obj\Debug\WPF_Canvas.pdb

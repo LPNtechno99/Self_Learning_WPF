@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\bin\Debug\WPF_Grid.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\bin\Debug\WPF_Grid.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\bin\Debug\WPF_Grid.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\obj\Debug\Grid.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\obj\Debug\WPF_Grid_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\obj\Debug\WPF_Grid_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\obj\Debug\Grid.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\obj\Debug\WPF_Grid.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\obj\Debug\WPF_Grid.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\obj\Debug\WPF_Grid.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\obj\Debug\WPF_Grid.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\obj\Debug\WPF_Grid.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\obj\Debug\WPF_Grid.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Grid\obj\Debug\WPF_Grid.csprojAssemblyReference.cache

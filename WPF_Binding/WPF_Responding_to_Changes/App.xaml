@@ -1,0 +1,9 @@
+﻿<Application x:Class="WPF_Responding_to_Changes.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_Responding_to_Changes"
+             StartupUri="Responding_to_Changes.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

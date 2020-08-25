@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\bin\Debug\WPF_Menu.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\bin\Debug\WPF_Menu.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\bin\Debug\WPF_Menu.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\obj\Debug\Menu.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\obj\Debug\WPF_Menu_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\obj\Debug\WPF_Menu_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\obj\Debug\Menu.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\obj\Debug\WPF_Menu.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\obj\Debug\WPF_Menu.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\obj\Debug\WPF_Menu.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\obj\Debug\WPF_Menu.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\obj\Debug\WPF_Menu.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\obj\Debug\WPF_Menu.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_Menu\obj\Debug\WPF_Menu.csprojAssemblyReference.cache

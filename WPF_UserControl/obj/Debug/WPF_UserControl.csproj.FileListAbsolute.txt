@@ -1,0 +1,17 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\bin\Debug\WPF_UserControl.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\bin\Debug\WPF_UserControl.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\bin\Debug\WPF_UserControl.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\WPF_UserControl.csprojAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\UC1.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\WPF_UserControl_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\WPF_UserControl_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\UC1.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\WPF_UserControl.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\WPF_UserControl.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\WPF_UserControl.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\WPF_UserControl.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\WPF_UserControl.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_UserControl\obj\Debug\WPF_UserControl.pdb

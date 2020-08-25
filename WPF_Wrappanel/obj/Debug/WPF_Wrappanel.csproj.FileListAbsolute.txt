@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\bin\Debug\WPF_Wrappanel.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\bin\Debug\WPF_Wrappanel.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\bin\Debug\WPF_Wrappanel.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\obj\Debug\WPF_Wrappanel.csprojAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\obj\Debug\WPF_Wrappanel_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\obj\Debug\WPF_Wrappanel_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\obj\Debug\WPF_Wrappanel.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\obj\Debug\WPF_Wrappanel.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\obj\Debug\WPF_Wrappanel.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\obj\Debug\WPF_Wrappanel.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\obj\Debug\WPF_Wrappanel.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Wrappanel\obj\Debug\WPF_Wrappanel.pdb

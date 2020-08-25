@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\obj\Debug\WPF_Value_Conversions_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\obj\Debug\WPF_Value_Conversions_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\bin\Debug\WPF_Value_Conversions.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\bin\Debug\WPF_Value_Conversions.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\bin\Debug\WPF_Value_Conversions.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\obj\Debug\WPF_Value_Conversions.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\obj\Debug\WPF_Value_Conversions.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\obj\Debug\WPF_Value_Conversions.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\obj\Debug\WPF_Value_Conversions.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\obj\Debug\WPF_Value_Conversions.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\obj\Debug\WPF_Value_Conversions.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\obj\Debug\Value_Conversions.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Value_Conversions\obj\Debug\Value_Conversions.baml

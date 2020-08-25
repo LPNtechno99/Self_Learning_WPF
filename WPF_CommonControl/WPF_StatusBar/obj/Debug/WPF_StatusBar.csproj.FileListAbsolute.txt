@@ -1,0 +1,14 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\bin\Debug\WPF_StatusBar.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\bin\Debug\WPF_StatusBar.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\bin\Debug\WPF_StatusBar.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\obj\Debug\StatusBar.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\obj\Debug\WPF_StatusBar_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\obj\Debug\WPF_StatusBar_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\obj\Debug\StatusBar.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\obj\Debug\WPF_StatusBar.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\obj\Debug\WPF_StatusBar.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\obj\Debug\WPF_StatusBar.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\obj\Debug\WPF_StatusBar.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\obj\Debug\WPF_StatusBar.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_StatusBar\obj\Debug\WPF_StatusBar.pdb

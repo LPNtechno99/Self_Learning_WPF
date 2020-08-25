@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\bin\Debug\WPF_BorderControl.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\bin\Debug\WPF_BorderControl.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\bin\Debug\WPF_BorderControl.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\obj\Debug\WPF_BorderControl.csprojAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\obj\Debug\BorderControl.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\obj\Debug\WPF_BorderControl_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\obj\Debug\WPF_BorderControl_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\obj\Debug\BorderControl.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\obj\Debug\WPF_BorderControl.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\obj\Debug\WPF_BorderControl.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\obj\Debug\WPF_BorderControl.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\obj\Debug\WPF_BorderControl.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\obj\Debug\WPF_BorderControl.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_BorderControl\obj\Debug\WPF_BorderControl.pdb

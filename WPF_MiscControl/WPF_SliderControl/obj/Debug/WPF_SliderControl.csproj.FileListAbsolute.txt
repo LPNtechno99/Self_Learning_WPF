@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\bin\Debug\WPF_SliderControl.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\bin\Debug\WPF_SliderControl.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\bin\Debug\WPF_SliderControl.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\obj\Debug\WPF_SliderControl.csprojAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\obj\Debug\SliderControl.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\obj\Debug\WPF_SliderControl_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\obj\Debug\WPF_SliderControl_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\obj\Debug\SliderControl.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\obj\Debug\WPF_SliderControl.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\obj\Debug\WPF_SliderControl.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\obj\Debug\WPF_SliderControl.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\obj\Debug\WPF_SliderControl.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\obj\Debug\WPF_SliderControl.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_SliderControl\obj\Debug\WPF_SliderControl.pdb

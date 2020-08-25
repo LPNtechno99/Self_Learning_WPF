@@ -1,0 +1,49 @@
+﻿<Window x:Class="WPF_ToolBar.ToolBar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_ToolBar"
+        mc:Ignorable="d"
+        Title="ToolBar" Height="200" Width="300">
+    <DockPanel Margin="0 10 0 0">
+        <ToolBarTray DockPanel.Dock="Top">
+            <ToolBar>
+                <Button Command="Cut" ToolTip="Cut selection to windows clipboard ">
+                    <Image Source="D:\RAV\Github\icon\24\cut.png"/>
+                </Button>
+                <Button Command="Copy" ToolTip="Copy selection to windows clipboard ">
+                    <Image Source="D:\RAV\Github\icon\24\copy.png"/>
+                </Button>
+                <Button Command="Paste" ToolTip="Paste from windows clipboard ">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="D:\RAV\Github\icon\24\paste.png"/>
+                        <TextBlock Margin="5 0 0 0" VerticalAlignment="Center">Paste</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Separator/>
+                <TextBlock VerticalAlignment="Center">Font Size:</TextBlock>
+                <ComboBox>
+                    <ComboBoxItem>10</ComboBoxItem>
+                    <ComboBoxItem IsSelected="True">12</ComboBoxItem>
+                    <ComboBoxItem>14</ComboBoxItem>
+                    <ComboBoxItem>16</ComboBoxItem>
+                </ComboBox>
+            </ToolBar>
+        </ToolBarTray>
+        <ToolBarTray DockPanel.Dock="Right" Orientation="Vertical">
+            <ToolBar>
+                <Button Command="Cut" ToolTip="Cut selection to windows clipboard ">
+                    <Image Source="D:\RAV\Github\icon\24\cut.png"/>
+                </Button>
+                <Button Command="Copy" ToolTip="Copy selection to windows clipboard ">
+                    <Image Source="D:\RAV\Github\icon\24\copy.png"/>
+                </Button>
+                <Button Command="Paste" ToolTip="Paste from windows clipboard ">
+                    <Image Source="D:\RAV\Github\icon\24\paste.png"/>
+                </Button>
+            </ToolBar>
+        </ToolBarTray>
+        <TextBox AcceptsReturn="True" TextWrapping="Wrap"/>
+    </DockPanel>
+</Window>

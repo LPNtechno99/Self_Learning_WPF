@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\bin\Debug\WPF_ContextMenu.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\bin\Debug\WPF_ContextMenu.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\bin\Debug\WPF_ContextMenu.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\obj\Debug\ContextMenu.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\obj\Debug\WPF_ContextMenu_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\obj\Debug\WPF_ContextMenu_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\obj\Debug\ContextMenu.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\obj\Debug\WPF_ContextMenu.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\obj\Debug\WPF_ContextMenu.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\obj\Debug\WPF_ContextMenu.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\obj\Debug\WPF_ContextMenu.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\obj\Debug\WPF_ContextMenu.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\obj\Debug\WPF_ContextMenu.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\WPF_ContextMenu\obj\Debug\WPF_ContextMenu.csprojAssemblyReference.cache

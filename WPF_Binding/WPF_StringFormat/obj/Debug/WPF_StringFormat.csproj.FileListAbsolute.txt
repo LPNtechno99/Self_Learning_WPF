@@ -1,0 +1,13 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\obj\Debug\WPF_StringFormat_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\bin\Debug\WPF_StringFormat.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\bin\Debug\WPF_StringFormat.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\bin\Debug\WPF_StringFormat.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\obj\Debug\WPF_StringFormat.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\obj\Debug\WPF_StringFormat.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\obj\Debug\WPF_StringFormat.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\obj\Debug\WPF_StringFormat.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\obj\Debug\WPF_StringFormat.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\obj\Debug\WPF_StringFormat.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\obj\Debug\StringFormat.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_StringFormat\obj\Debug\StringFormat.g.cs

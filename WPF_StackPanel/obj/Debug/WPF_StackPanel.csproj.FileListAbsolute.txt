@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\bin\Debug\WPF_StackPanel.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\bin\Debug\WPF_StackPanel.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\bin\Debug\WPF_StackPanel.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\obj\Debug\WPF_StackPanel.csprojAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\obj\Debug\WPF_StackPanel_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\obj\Debug\WPF_StackPanel_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\obj\Debug\WPF_StackPanel.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\obj\Debug\WPF_StackPanel.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\obj\Debug\WPF_StackPanel.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\obj\Debug\WPF_StackPanel.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\obj\Debug\WPF_StackPanel.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_StackPanel\obj\Debug\WPF_StackPanel.pdb

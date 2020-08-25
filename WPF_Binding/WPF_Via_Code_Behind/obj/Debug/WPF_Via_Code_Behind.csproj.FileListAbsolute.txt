@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\bin\Debug\WPF_Via_Code_Behind.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\bin\Debug\WPF_Via_Code_Behind.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\bin\Debug\WPF_Via_Code_Behind.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\obj\Debug\WPF_Via_Code_Behind.csprojAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\obj\Debug\WPF_Via_Code_Behind_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\obj\Debug\WPF_Via_Code_Behind_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\obj\Debug\WPF_Via_Code_Behind.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\obj\Debug\WPF_Via_Code_Behind.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\obj\Debug\WPF_Via_Code_Behind.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\obj\Debug\WPF_Via_Code_Behind.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\obj\Debug\WPF_Via_Code_Behind.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_Via_Code_Behind\obj\Debug\WPF_Via_Code_Behind.pdb

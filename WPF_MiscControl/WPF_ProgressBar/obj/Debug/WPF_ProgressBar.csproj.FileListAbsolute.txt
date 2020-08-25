@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\bin\Debug\WPF_ProgressBar.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\bin\Debug\WPF_ProgressBar.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\bin\Debug\WPF_ProgressBar.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\obj\Debug\WPF_ProgressBar.csprojAssemblyReference.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\obj\Debug\ProgressBar.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\obj\Debug\WPF_ProgressBar_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\obj\Debug\WPF_ProgressBar_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\obj\Debug\ProgressBar.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\obj\Debug\WPF_ProgressBar.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\obj\Debug\WPF_ProgressBar.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\obj\Debug\WPF_ProgressBar.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\obj\Debug\WPF_ProgressBar.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\obj\Debug\WPF_ProgressBar.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\WPF_ProgressBar\obj\Debug\WPF_ProgressBar.pdb

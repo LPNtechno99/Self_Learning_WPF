@@ -1,0 +1,14 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\bin\Debug\WPF_MiscControl.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\bin\Debug\WPF_MiscControl.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\bin\Debug\WPF_MiscControl.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\obj\Debug\WPF_MiscControl_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\obj\Debug\WPF_MiscControl_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\obj\Debug\WPF_MiscControl.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\obj\Debug\WPF_MiscControl.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\obj\Debug\WPF_MiscControl.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\obj\Debug\WPF_MiscControl.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\obj\Debug\WPF_MiscControl.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_MiscControl\obj\Debug\WPF_MiscControl.pdb

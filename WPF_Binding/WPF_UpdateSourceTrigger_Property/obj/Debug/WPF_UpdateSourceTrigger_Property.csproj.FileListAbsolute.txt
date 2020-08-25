@@ -1,0 +1,14 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\bin\Debug\WPF_UpdateSourceTrigger_Property.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\bin\Debug\WPF_UpdateSourceTrigger_Property.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\bin\Debug\WPF_UpdateSourceTrigger_Property.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\obj\Debug\UpdateSourceTrigger_Property.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\obj\Debug\WPF_UpdateSourceTrigger_Property_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\obj\Debug\WPF_UpdateSourceTrigger_Property_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\obj\Debug\UpdateSourceTrigger_Property.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\obj\Debug\WPF_UpdateSourceTrigger_Property.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\obj\Debug\WPF_UpdateSourceTrigger_Property.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\obj\Debug\WPF_UpdateSourceTrigger_Property.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\obj\Debug\WPF_UpdateSourceTrigger_Property.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\obj\Debug\WPF_UpdateSourceTrigger_Property.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_Binding\WPF_UpdateSourceTrigger_Property\obj\Debug\WPF_UpdateSourceTrigger_Property.pdb

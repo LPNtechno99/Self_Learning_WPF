@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\bin\Debug\WPF_CommonControl.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\bin\Debug\WPF_CommonControl.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\bin\Debug\WPF_CommonControl.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\obj\Debug\MainWindow.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\obj\Debug\WPF_CommonControl_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\obj\Debug\WPF_CommonControl_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\obj\Debug\MainWindow.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\obj\Debug\WPF_CommonControl.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\obj\Debug\WPF_CommonControl.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\obj\Debug\WPF_CommonControl.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\obj\Debug\WPF_CommonControl.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\obj\Debug\WPF_CommonControl.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\obj\Debug\WPF_CommonControl.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_CommonControl\obj\Debug\WPF_CommonControl.csprojAssemblyReference.cache

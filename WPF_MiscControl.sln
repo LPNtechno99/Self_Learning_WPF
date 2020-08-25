@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_MiscControl", "WPF_MiscControl\WPF_MiscControl.csproj", "{EB00C1A2-89E1-430B-B9EB-B27EFE5F11C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_BorderControl", "WPF_MiscControl\WPF_BorderControl\WPF_BorderControl.csproj", "{651B69EE-7A68-44DB-AD01-9803F50EDD92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_SliderControl", "WPF_MiscControl\WPF_SliderControl\WPF_SliderControl.csproj", "{E28D5F97-9B8E-46D0-AD36-4C22A9749548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_ProgressBar", "WPF_MiscControl\WPF_ProgressBar\WPF_ProgressBar.csproj", "{C3B0C4FA-C360-4601-9BAD-929A7BBAF575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB00C1A2-89E1-430B-B9EB-B27EFE5F11C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB00C1A2-89E1-430B-B9EB-B27EFE5F11C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB00C1A2-89E1-430B-B9EB-B27EFE5F11C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB00C1A2-89E1-430B-B9EB-B27EFE5F11C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651B69EE-7A68-44DB-AD01-9803F50EDD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651B69EE-7A68-44DB-AD01-9803F50EDD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651B69EE-7A68-44DB-AD01-9803F50EDD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651B69EE-7A68-44DB-AD01-9803F50EDD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E28D5F97-9B8E-46D0-AD36-4C22A9749548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E28D5F97-9B8E-46D0-AD36-4C22A9749548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E28D5F97-9B8E-46D0-AD36-4C22A9749548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E28D5F97-9B8E-46D0-AD36-4C22A9749548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B0C4FA-C360-4601-9BAD-929A7BBAF575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B0C4FA-C360-4601-9BAD-929A7BBAF575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B0C4FA-C360-4601-9BAD-929A7BBAF575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B0C4FA-C360-4601-9BAD-929A7BBAF575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7579C10-61BB-4708-81C8-9A11D38A406D}
+	EndGlobalSection
+EndGlobal

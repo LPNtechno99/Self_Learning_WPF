@@ -1,0 +1,15 @@
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\bin\Debug\WPF_DockPanel.exe.config
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\bin\Debug\WPF_DockPanel.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\bin\Debug\WPF_DockPanel.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\obj\Debug\App.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\obj\Debug\WPF_DockPanel_MarkupCompile.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\obj\Debug\WPF_DockPanel_MarkupCompile.lref
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\obj\Debug\WPF_DockPanel.g.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\obj\Debug\WPF_DockPanel.Properties.Resources.resources
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\obj\Debug\WPF_DockPanel.csproj.GenerateResource.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\obj\Debug\WPF_DockPanel.csproj.CoreCompileInputs.cache
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\obj\Debug\WPF_DockPanel.exe
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\obj\Debug\WPF_DockPanel.pdb
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\obj\Debug\DockPanel.g.cs
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\obj\Debug\DockPanel.baml
+D:\RAV\Github\Self_Learning_WPF\WPF_DockPanel\obj\Debug\WPF_DockPanel.csprojAssemblyReference.cache
